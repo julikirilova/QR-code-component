@@ -12,4 +12,3 @@ Your challenge is to build out this profile card component and get it looking as
 
 - Semantic HTML5 markup
 - CSS custom properties
-- CSS Variables
